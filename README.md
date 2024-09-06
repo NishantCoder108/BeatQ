@@ -24,6 +24,6 @@
 
     ```bash
 
-    DATABASE_URL=postgres://postgres:mysecretpassword@localhost:5432/muzerdb
+    DATABASE_URL=postgres://postgres:mysecretpassword@localhost:5432/db
 
     ```
